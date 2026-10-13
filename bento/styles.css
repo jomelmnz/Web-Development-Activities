@@ -89,3 +89,7 @@
 .text-purple-light {
   color: #c084fc;
 }
+
+.screen-color {
+  background-color: rgb(226, 226, 226);
+}
